@@ -6,8 +6,8 @@ Clonecraft 4 is a voxel-based game built in Unity, combining fractal Perlin/Simp
 
 ## ✨ Features
 
-[x] **Voxel World**: Explore a fully interactive, procedurally generated voxel world.
-[x] **Mesh Optimization**: Efficiently render voxel data with optimized meshes. Uses a texture atlas to reduce number of draw calls to the GPU aswell.
-[x] **Chunk Serialization & Compression**: Utilize running length encoding (RLE) to serialize and compress chunk data, reducing network overhead.
-[x] **Real-Time Networking**: Send and receive optimized chunk data through Socket.IO for seamless multiplayer experiences.
-[x] **Dynamic Player Skins**: Automatically fetch and apply player skins from the Minecraft skins website.
+- [x] Voxel World: Explore a fully interactive, procedurally generated voxel world.
+- [x] Mesh Optimization**: Efficiently render voxel data with optimized meshes. Uses a texture atlas to reduce number of draw calls to the GPU aswell.
+- [x] **Chunk Serialization & Compression**: Utilize running length encoding (RLE) to serialize and compress chunk data, reducing network overhead.
+- [x] **Real-Time Networking**: Send and receive optimized chunk data through Socket.IO for seamless multiplayer experiences.
+- [x] **Dynamic Player Skins**: Automatically fetch and apply player skins from the Minecraft skins website.
